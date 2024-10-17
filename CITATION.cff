@@ -1,6 +1,8 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
+- family-names: "Ryan"
+  given-names: "Steven"
 - family-names: "Delaney-Busch"
   given-names: "Nathaniel"
 title: "fragile-x-manuscript-2024"
